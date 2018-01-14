@@ -32,5 +32,5 @@ function removeLastDriver() {
 }
 
 function removeFirstDriver() {
-  
+  return new_drivers = drivers.slice(1)
 }
